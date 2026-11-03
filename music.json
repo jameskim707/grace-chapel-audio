@@ -1,1 +1,12 @@
-
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "kpop-01",
+      "title": "날씨가 맑고, 하늘은 높고 (Remastered)",
+      "genre": "kpop",
+      "file": "assets/music/kpop/03.날씨가 맑고, 하늘은 높고 (Remastered).mp3",
+      "durationSeconds": null
+    }
+  ]
+}
