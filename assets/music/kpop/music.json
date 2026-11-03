@@ -1,1 +1,7 @@
-
+[
+  { "id": "path_connection", "type": "portal", "x": -42, "y": 0, "z": 26, "label": "중앙 분수광장 연결로" },
+  { "id": "gazebo_prayer", "type": "spot", "x": -49, "y": 0, "z": 51, "radius": 2.2, "label": "기도와 묵상의 정자" },
+  { "id": "scripture_altar", "type": "interaction", "x": -42, "y": 0, "z": 44, "radius": 2.0, "label": "말씀 제단" },
+  { "id": "bench_pond_1", "type": "seat", "x": -33.2, "y": 0.45, "z": 40, "lookAt": { "x": -37, "z": 42 }, "label": "연못 벤치" },
+  { "id": "bench_pond_2", "type": "seat", "x": -41, "y": 0.45, "z": 35.8, "lookAt": { "x": -39, "z": 40 }, "label": "숲길 벤치" }
+]
